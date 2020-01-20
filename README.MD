@@ -1,3 +1,7 @@
+# Follow me on [Github](https://github.com/darktheft) 
+## on [twiter](https://twitter.com/iamdarktheft)
+## on [instagram](https://www.instagram.com/iamdarktheft)
+
 ![FlashLogin](https://github.com/darktheft/FlashLogin/blob/master/1_dbZwGGyhE5pk_KgNZ_GW8w.gif)
 
 ## May be Transition framework?
